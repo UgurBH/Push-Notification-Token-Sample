@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "276736406669",
+    "project_id": "pushtestemeats",
+    "storage_bucket": "pushtestemeats.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276736406669:android:60bc8d1f546e06c1c59ec4",
+        "android_client_info": {
+          "package_name": "com.honts.pushnotificationtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276736406669-0jfrf1f58sgmfqjp50l8e41ao2n7rd04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQeF8Ln5rj9hDZW9XfvVWXwrV6bDmdfEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276736406669-0jfrf1f58sgmfqjp50l8e41ao2n7rd04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276736406669:android:07ead2ef326de8a6c59ec4",
+        "android_client_info": {
+          "package_name": "com.kot.honts.token"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276736406669-0jfrf1f58sgmfqjp50l8e41ao2n7rd04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQeF8Ln5rj9hDZW9XfvVWXwrV6bDmdfEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276736406669-0jfrf1f58sgmfqjp50l8e41ao2n7rd04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
